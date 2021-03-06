@@ -1,0 +1,16 @@
+/*
+
+    font-family: 'DotGothic16', sans-serif; titulos
+    font-family: 'Lato', sans-serif; toda la página
+
+*/
+
+/* Selectores globales */
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+img {
+    max max-width: 100%;
+}
